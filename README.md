@@ -15,7 +15,7 @@ Projeto Trivia sobre Mitologia Grega, criado para o processo seletivo para o Boo
 ### Developer
 ---
 
- Daiane Gonçalves 🚀
+ Daiane Gonçs 🚀
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/daianegoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
